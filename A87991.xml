@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of advice vnto the ministers assembled at Westminster, with several parcels of queries, recommended to their saddest considerations. Wherein is hinted the pernitious Papisticall-Presbyteriall tenet of excommunicating magistrates, and absolving the people from obedience. The un-gospel-like denying that liberty of conscience unto others, which we would have granted unto our selves. The extreamest madnesse of fighting, or so much as to hazard a fighting against God, by persecuting tender conscences [sic] for differences in opinion only. The practice and commission of our saviour and his apostles concerning hereticks. The possiblilty of a hereticks repentance, so long as he lives, and such as do any wayes cause him to dye in heresie, as much as in them lyes, do effectually damn him eternally: and consequently, that Paul Best, (whatever his errour be at present) as well as Paul the apostle, once a blasphemer, may one day become a convert, ...</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87991</idno><idno type="EEBO-CITATION">99861427</idno>
+  <idno type="VID">113562</idno>
+  <idno type="EEBO-PROQUEST">2248534502</idno>
+  
+            <idno type="STC">Wing L1570</idno>
+            <idno type="STC">Thomason E334_13</idno>
+            <idno type="STC">ESTC R200767</idno>
+            <idno type="PROQUEST">99861427</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861427e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87991)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113562)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E334[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of advice vnto the ministers assembled at Westminster, with several parcels of queries, recommended to their saddest considerations. Wherein is hinted the pernitious Papisticall-Presbyteriall tenet of excommunicating magistrates, and absolving the people from obedience. The un-gospel-like denying that liberty of conscience unto others, which we would have granted unto our selves. The extreamest madnesse of fighting, or so much as to hazard a fighting against God, by persecuting tender conscences [sic] for differences in opinion only. The practice and commission of our saviour and his apostles concerning hereticks. The possiblilty of a hereticks repentance, so long as he lives, and such as do any wayes cause him to dye in heresie, as much as in them lyes, do effectually damn him eternally: and consequently, that Paul Best, (whatever his errour be at present) as well as Paul the apostle, once a blasphemer, may one day become a convert, ...</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Page 2 is the only numbered page.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Aprill 28 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Best, Paul, 1590?-1657.</term>
+               <term type="meeting_name">Westminster Assembly (1643-1652) --  Early works to 1800.</term>
+               <term type="topical_term">Religious tolerance --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113562:1"/>
+            <p>A LETTER OF ADVICE VNTO THE MINISTERS ASSEM<g ref="char:EOLhyphen"/>bled at <hi>Westminster,</hi> with severall parcels of Queries, recommended to their saddest Considerations.</p>
+            <p>
+               <hi>Wherein is hinted</hi> The pernitious <hi>Papisticall-Presbyteriall Tenet</hi> of Ex<g ref="char:EOLhyphen"/>communicating Magistrates, and Absolving the People from obedience.</p>
+            <p>The un-Gospel-like denying that liberty of consci<g ref="char:EOLhyphen"/>ence unto others, which we would have granted unto our selves.</p>
+            <p>The extreamest madnesse of fighting, or so much as to hazard a fighting against God, by persecuting tender conscences for differences in opinion only.</p>
+            <p>The Practice and Commission of our Saviour and his Apostles concerning Hereticks.</p>
+            <p>The possibility of a Hereticks repentance, so long as he lives, and such as do any wayes cause him to dye in heresie, as much as in them lyes, do effectu<g ref="char:EOLhyphen"/>ally damn him eternally: and consequently,</p>
+            <p>That <hi>Paul Best,</hi> (what-ever his errour be at present) as well as <hi>Paul</hi> the Apostle, once a blasphemer, may one day become a <hi>Convert,</hi> if he be not untimely sterved to death before-hand.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="2" facs="tcp:113562:2"/>
+            <head>Certain <hi>Queries</hi> concerning the desperate Tenet of <hi>Presbyterians</hi> and <hi>Papists</hi> about ex<g ref="char:EOLhyphen"/>communicating Magistrates, and absolving the People from their Obedience.</head>
+            <p>VVHether are not Papists thought unworthy to be toletated in a State, who hold that the Pope may absolve the people from their obedience to the Civill Magistrate?</p>
+            <p>Whether do not Presbyterians hold that the King, Parliament, or other Magistrate, is as liable to be excommunicated, as any other member or members of the Church or Congregation?</p>
+            <p>Whether doe not Presbyterians hold that the civill Magistrate, and consequently the People, in whom the Soveraigne power re<g ref="char:EOLhyphen"/>sides originally, is bound to put out of the State, (either by banish<g ref="char:EOLhyphen"/>ment or death, as they themselves thinke good) all such as the Pres<g ref="char:EOLhyphen"/>biterie have excommunicated, or put out of the Church? viz. <hi>A S.</hi> alias Adam Stuards <hi>second part of his duply to the two Brethren pag.</hi> 166.167.</p>
+            <p>Whether are not all Presbyterians, according to their owne prin<g ref="char:EOLhyphen"/>ciples, engaged to the same doctrin of putting out of the State, the King, Parliament, or any other civill Magistrate, if they be once excommunicated out of the Church, unles they will renounce the very countenancing of a <hi>Coercive jurisdiction,</hi> both <hi>in or about the Church,</hi> as they use to distinguish more nicely then wisely, for mat<g ref="char:EOLhyphen"/>ters meerly of Religion, and so becom <hi>Judependants?</hi>
+            </p>
+            <p>Whether of the two foregoing tenets, is not this of the Presbi<g ref="char:EOLhyphen"/>terian more pernitious, then the other of the Papists, and conse<g ref="char:EOLhyphen"/>quently, whether ought not Presbyterians who hold such a tenet, to be lesse tolerated in a Countrey, then the very Papists?</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:113562:2"/>
+            <head>To the ministers Assembled at <hi>VVestminster.</hi>
+            </head>
+            <p>THe people of a <hi>Nation,</hi> kingdom or whole world, though they be not to be accounted the world in Scripture, phras, as it is contradistinguished from the <hi>Church,</hi> from those which are <hi>within,</hi> 1. <hi>Cor.</hi> 5.12.13. yet they consist of amixt multitud of good &amp; bad, of true beleevers, weake, amisse, &amp; <hi>unbeleevers,</hi> the greatest part wherof are bad &amp; <hi>unregenerate,</hi> if it be true, that <hi>narrow is the way which leadeth to salvation, and few there be that find it. Mat.</hi> 7.14. Since then by the con<g ref="char:EOLhyphen"/>stitusion of this Kingdom (and according to the law of God and Nature, which is above that of <hi>Meedes, Persians,</hi> and all o<g ref="char:EOLhyphen"/>ther Kingdoms) the mixt multitud are they which choose the Parliament-men, and derive unto them all the parliamen<g ref="char:EOLhyphen"/>tary power which they have, or can possibly have, if such as are thus chosen Parliament-men, do take upon them to make Lawes and acts, concerning Gods houshold, his Church; it would follow by undeniable consequence, that the mixt multitude, had this power of setting up a Religion, and orde<g ref="char:EOLhyphen"/>ring what Church-government they themselves best pleased, and having all power primarily and inherently in themselves they may, when they wil, take it into their own hands, and by <hi>most</hi> voices dispose of <hi>religion</hi> &amp; <hi>Church-affaires,</hi> as they think fitting</p>
+            <p>But in regard the greatest partly thus in unregeneratnes, <hi>without God in the world Ephe.</hi> 2.12. what manner of Disciplin, Doctrin, and Religion we should have, if thus managed, may easily be ima<g ref="char:EOLhyphen"/>gined, and how unlikly it is, and how inconsistent with reason and Christianity, that God should give a power to those which are not of his Church, his houshould, to make lawes for governing his Church or houshold, may easily appeare, if wee would but consider of it seriously in the feare of God, being free from superstition and al manner of self-seeking.</p>
+            <p>However as it pleased our Ancestors to establish the <hi>Papall,</hi> and <hi>Episcopall</hi> government of the Church successively by Act of Parlia<g ref="char:EOLhyphen"/>ment; both which, not being of God, according to the saying of <hi>Gamaliell</hi> the grand Poletitian, are come to nought. So if it should now seeme good unto this present Parliament, to set Presbyterie
+<pb facs="tcp:113562:3"/>upon the throne, surely like a new broome, it may, at first to some seeme good for somthing, it may a while in some respect sweepe clean; And perhaps; the State may be thought to thrive therby at first, like certaine diseased persons, which through change of aire and removing up and downe on pleasure, from one place to an other thinke themselves to mend and be refreshed therwith, untill their disease being growne to the full hight, like fire, burst out in ernest.</p>
+            <p>Yet I may not forbeare to say, and promise to make appeare, (though it hath beene done more then once already) when the presse shall be permitted to speake truth, <hi>that the principles of Presby<g ref="char:EOLhyphen"/>terie are inconsistant with Monarchie, Aristocracie, or any other civill government, though yet to be invented?</hi> It may, I say, notwithstanding bee erected and take a turne, as other Politick-Church-governments have done, and the civill State thrive so much beter, and so much longer under it, according as it shall, contrary to its principles, dis<g ref="char:EOLhyphen"/>pencing with her owne Prerogative, suffer peace and truth to live within her jurisdiction.</p>
+            <p>But take heed my Lords and Masters of the <hi>Synod,</hi> least taking upon you to give counsell to the Kingdoms body representative, you should at any time prevaile against atoleration of <hi>Independants,</hi> of tender consciences differing from your owne, as if they were in<g ref="char:EOLhyphen"/>considerable, or were few in number, in comparison of such a mul<g ref="char:EOLhyphen"/>titude which seemes added to you of late: Consider there are in this Kingdom, amongst those which have, been forwardest for the reformation, above 10 <hi>Jndependents</hi> for every <hi>Presbiterian</hi> which appeared, or was thought to be at beginning of this Parliam. &amp; that even the greatest part, whose number you glory so much in, have bin so late so ranke <hi>Episcopals,</hi> as that a little <hi>Pres<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yterian Tyranny</hi> may banish them from your errors, or the Christian liberty &amp; godly conversation of <hi>peaceable Independents</hi> win them to the truth; leaving you to be chastised, as evill Counsellors, disturbers both of Church and State, no lesse then great <hi>Straford,</hi> or little <hi>Canterbury,</hi> whose foot<g ref="char:EOLhyphen"/>steps you will be found to tread in, most exactly.</p>
+            <p>But to be briefe, take this for your <hi>Lay-peoples</hi> finall answer and resolution, that unlesse your Directories, Catechises, Creeds, Canons, Decrees, &amp;c. come sealed unto us with <hi>Inpleaseth the holy Ghost &amp; us,</hi> wee <hi>may not</hi> receive them for articles of faith, as those which want authority; and if they did come so sealed unto us, we <hi>would not</hi> then receive them as those which take too much upon them: may you not then take up <hi>Iudas</hi> his words amongst you to good purpose, <hi>quorsum haec perditio?</hi> why is all this waste and losse of time for though if your intentions had been upright, the Churches might have been edified by your consultations; yet since they are discovered, as aiming only to get our moneyes from us, and ex<g ref="char:EOLhyphen"/>ercise dominion over us, make necessity a vertue, and let this be your comfort, that we neither will feed you with <hi>Iewish</hi> tythes, nor suffer you to raigne over us any longer, how-ever make a decoction of these following Queries, and you may in time, perhaps, recover, and fare well.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:113562:3"/>
+            <head>Some few queries propounded, with all Christian meeknesse, unto Jnquisitor whether <hi>Papall</hi> or <hi>Presbyteriall,</hi> for matters meerly Spirituall.</head>
+            <p>Whether ought wee not to beare with one an other, so often, and so long, as our for bearance makes more for Gods honour, and our Brethrens edification, then the not forbearing doth?</p>
+            <p>Wheather ought wee not, as neere as posiblie wee can, to follow Gods example, in bearing with on an other?</p>
+            <p>Whether ought we not precisely to be governed by the scripture how farforth we ought, or ought not to beare with one an other?</p>
+            <p>Whether in a case of difficulty about this Point of bearing or not bearing with on another, ought wee not to be swaied, both for in<g ref="char:EOLhyphen"/>terptetation, and Practice, to that side which makes most for chari<g ref="char:EOLhyphen"/>tie and mercie?</p>
+            <p>Whether is ther not hopes of a <hi>Heretick's</hi> conversion so long as he lives?</p>
+            <p>Whether is there any hopes of conversion, or of Gods mercy to<g ref="char:EOLhyphen"/>wards a heretick, who being condemned tody, percists still, and dyes a heretick?</p>
+            <p>Whether is it not more for Gods glory, &amp; the brethrens edifica<g ref="char:EOLhyphen"/>tion, that a heretick should be permitted to live with a possibility of his conversion, and salvation, then that he shouldbe executed, and consequently be damned unavoidably?</p>
+            <p>If it should be granted, that a heretick may lawfully be put to death. Whether yet were it not murder, that one formerly con<g ref="char:EOLhyphen"/>demned to die for heresie, but afterwards converted, should not<g ref="char:EOLhyphen"/>withstanding be put to death?</p>
+            <p>Whether is it not impossible to disprove a heretick, who being condemned to die, shall affirm himselfe to be converted, and proffer to conform accordingly? And lastly.</p>
+            <p>If one that is now no more a heretick, ought not to be put to death for heresie, &amp; if one who being formerly a heretick, but now pretending to be converted, conform himselfe, cannot possibly be disproved; Whether are not all proceedings against hereticks, so much more ungodly, unwarrantable and impertinent, as temp<g ref="char:EOLhyphen"/>ting them to be hypocrits, two fold worse then children of the Divel, through a counterfeit conversion &amp; conformity to save their lives? and if hereticks had so little conscience as to put themselves upon a counterfit conversion, when they were going to the gal<g ref="char:EOLhyphen"/>lowes; whether might they not, even so often as they themselves please, make void and null all proceedings against themselves as he<g ref="char:EOLhyphen"/>reticks, and yet enjoy both their heresies and lives?</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:113562:4"/>
+            <head>Queries to be seriously considered on by all <hi>Persecutors.</hi>
+            </head>
+            <p>Whether should not every one desire so much libertie to be granted him, as that he may keepe a good conscience both towards God and man?</p>
+            <p>Whether is not every man bound in dutie to grant the same li<g ref="char:EOLhyphen"/>bertie unto his brother, which he desireth for himselfe, for keeping a good conscience, both towards God and man?</p>
+            <p>Whether is it possible to have a good conscience towards God in any respect, wherof aman is not fully perswaded in his own hart?</p>
+            <p>Whether is it possible to keepe a good conscience towards man, whilst wee doe that unto him, which wee would not have done unto our selves?</p>
+            <p>Whether doe men desire that they themselves should be forced to conformity, contrary to their owne consciences and judgments, or whether would they willingly be hindred from worshipping God after this or that manner, which they in their owne consciences and judgments apprehend to be the only true one?</p>
+            <p>Whether is it not absolutly sinfull for a man to conform his practice contrary to his conscience and judgment?</p>
+            <p>Whether conforming or not conforming in a way of it selfe er<g ref="char:EOLhyphen"/>roneous, wherof a man is fully perswaded in his own heart, be not a lesse sin, then conforming or not conforming in a right way, wher of a man is not fully perswaded in his owne hart?</p>
+            <p>Whether is not fighting a gainst God the greatest sin in the world?</p>
+            <p>Whether is not the running a hazord of fightting a gainst God, the second great sin in the world?</p>
+            <p>Since the way wherin <hi>Paul</hi> worshiped God, was then accoun<g ref="char:EOLhyphen"/>ted <hi>heresie Acts,</hi> 24.14. whether is it not possible that such new opi<g ref="char:EOLhyphen"/>nions as are at present, or shall be raised hereafter, may in themselves be both true and good, though they should at the same time by som and that the major part too, be accounted erronious and heretical?</p>
+            <p>Whether the opposing new opinions, which some godly peo<g ref="char:EOLhyphen"/>ple, are fully parswaded in their owne harts to be true ones, and may possibly be so in themselves, be not to run a hazord of fighting against God?</p>
+            <p>Whether can any man prove his owne Religion from scripture, to be better then another mans, since the being fully parswaded in a mans own heart, is the surest rule and guid both to the one and other?</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:113562:4"/>
+            <head>Another parcell of Queries.</head>
+            <p>Whether were not our Saviour and his Apostles as well able to discover and Judg of hereticks as any now a daies?</p>
+            <p>Whether were not our Saviour and his Apostles best able to deter<g ref="char:EOLhyphen"/>min after what manner hereticks were to be proceeded against?</p>
+            <p>Whether is it not probable that our Saviour and his Apostles, would have given the best advice and counsell unto al succeeding generations, how they ought to proceed against hereticks?</p>
+            <p>Whether did not our Saviour and his Apostles foretel that there should com in damnable heresies, false prophets and false teachers, even such as would denie the Lord Iesus. Matt. 24.24. 2. Pet. 2.1?</p>
+            <p>Whether did our Saviour and his Apostles themselves make use of, or propound unto the beleevers then living, or to succeed, any o<g ref="char:EOLhyphen"/>ther manner of proceeding against false prophets and false teachers, even of such damnable heresies as the very denying the Lord Iesus, then to reject them and to a void them. Rom. 16.17?</p>
+            <p>Whether have Christians now a dayes any warrant to proceed a<g ref="char:EOLhyphen"/>gainst hereticks after any other manner then Christ and his Apostles taught them?</p>
+            <p>Whether had not Christ and his Apostles an infalible way to dis<g ref="char:EOLhyphen"/>cerne and judg of hereticks?</p>
+            <p>Whether then, can it be safe for Christians now a daies, who are but falible, subject to the same fallibilytie with their brethen, to put hereticks to death, when Christ and his Apostles who were infalible, did only reject them, and gave not the lest advice or encoragment to any Christians to proceed otherwise against them, then they themselves had done, by rejecting and avoiding them?</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:113562:5"/>
+            <head>Another parcel of Queries.</head>
+            <p>Whether was not Paul a blasphemer 1. Tim. 1.13. as bad as the worst of heteticks when he persecuted the Church, one that was accesary to <hi>Stephens</hi> death the first Christian Martyr, Act. 9.21. &amp; 22.19.20.</p>
+            <p>If <hi>Paul</hi> before his conversion had been put to death for heresie &amp; blasphemy, whether would it not at the last day have been found a murthering of <hi>Paul,</hi> and a flat giving the lye unto the Holy Ghost, which sayes that <hi>Paul</hi> was appointed a chosen vessel for propaga<g ref="char:EOLhyphen"/>ting the Gospel unto the <hi>Gentils,</hi> which could not be before he was converted, Act. 9.15.?</p>
+            <p>Whether was not <hi>Paul</hi> after his conversion adjudged a hetetick and an Idolater, even worthy of death. Act. 17.18. &amp; 22.22 &amp; 24.14.?</p>
+            <p>Whether doth not the Holy Ghost tell us that God was mercyfull to <hi>Paul</hi> though a heretick, ablasphemer, 2 persecuter, because he did it ignorantly, 1. Tim. 1.13.</p>
+            <p>Whether is it not only possible or probable, but very manifest that <hi>Paul Bost</hi> accused of herefie, if he be a heretick, and stil continue so, doth necesarily continue so, eyther through ignorance, or mad<g ref="char:EOLhyphen"/>nes; Since if hee did only but pretend to leave his heresie, and make a shew of orthodox in the future, he could not be disproved, nor so<g ref="char:EOLhyphen"/>much as colourably punnished as a heretick?</p>
+            <p>In case <hi>Paul Best</hi> continue in his opinion, in heresie, through madnes, whether is he not fiitter to be sent to <hi>Bethlem,</hi> then to be starved to death in a prison or inquisition house?</p>
+            <p>In case <hi>Paul Best</hi> continue in his opinion, his heresie, through ig<g ref="char:EOLhyphen"/>norance, whether is it not possible that God may yet have mercie on him, as he had on <hi>Paul the Apostle,</hi> and in his due time bring him to the knowledge of the truth, as he did the Apostle <hi>Paul?</hi>
+            </p>
+            <p>Whether can it be demonstrated before hand, but that <hi>Paul Best</hi> (whatever his heresie be) may possible in Gods secret wil, be ordai<g ref="char:EOLhyphen"/>ned to conversion hereafter, as wel as <hi>Paull</hi> the Apostle whilst he was a blasphemer?</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113562:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
